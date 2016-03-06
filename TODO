@@ -1,0 +1,6 @@
+make requirements file (in env):
+pip freeze > requirements.txt
+
+install requirements:
+pip install -r path/to/requirements.txt (only in env)
+
