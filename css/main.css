@@ -1,0 +1,86 @@
+* {
+    font-family: "Tahoma", sans-serif;
+}
+#register_box {
+    padding: 15px;
+    background-color: #00d27f;
+    line-height: 1.2;
+    width: 360px;
+    display: block;
+    float: right;
+    border-radius: 2px;
+}
+
+.simple_input {
+    background-color: #eeebe2;
+    padding: 5px 10px 5px 10px;
+    border-style: none;
+    outline: none;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.wrapper {
+    margin: 10px auto;
+    padding: 5px;
+    display: block;
+    background-color: #eeebe2;
+    border-radius: 2px;
+}
+
+.row_join_log {
+    display: inline-block;
+    margin: 0 auto;
+}
+
+#log_join {
+    padding: 15px 0px 15px 0px;
+    width: 70%;
+    display: block;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+#join_btn {
+    border: none;
+    background: none;
+    outline: none;
+    padding: 0;
+}
+
+#alt_from_option {
+    display: inline-block;
+    box-sizing: border-box;
+    width: 49%;
+    margin: 0 auto;
+}
+
+#submit_btn {
+    display: inline-block;
+    box-sizing: border-box;
+    width: 49%;
+    margin: 0 auto;
+}
+
+#link_log_in {
+    text-decoration: none;
+    display: inline-block;
+    line-height: 32px;
+    color: white;
+    font-weight: bold;
+    
+}
+
+.btn {
+    font-size: 16px!important;
+    color: white!important;
+    line-height: 32px!important;
+    background-color: #00ff83!important;
+    width: 100%!important;
+    font-weight: bold;
+    
+}
+
+.log_span {
+    color: white;
+}
